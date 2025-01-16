@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLSTAT 2025</title>
+    <link>https://ml-stat.github.io/MLSTAT2025/</link>
+    <description>Recent content on MLSTAT 2025</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://ml-stat.github.io/MLSTAT2025/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/tutorial/</guid>
+      <description>2:30 p.m. — 5:30 p.m., Thursday, Aug.22, 2024</description>
+    </item>
+    <item>
+      <title>Keynote Speech 1 and 2</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/keynote-speech-1-and-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/keynote-speech-1-and-2/</guid>
+      <description>9:00 a.m. — 10:50 a.m., Friday, Aug. 23, 2024</description>
+    </item>
+    <item>
+      <title>Overview</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/overview/</guid>
+      <description>The 2nd International Conference on Machine Learning and Statistics (MLSTAT) will be held&#xA;Date: August 22-24, 2024. Localtion: 5268 Renmin Street, Nanguan District, Changchun City, Jilin Province, China (Renmin Street Campus). Aim: The Machine Learning and Statistics Conference (MLSTAT) is an academic conference that serves to facilitate scholarly exchange among domestic and international scholars in the fields of machine learning and statistics. Through fostering an academic culture that promotes the mutual development of machine learning and statistics, the conference aims to advance foundational disciplines such as data science and artificial intelligence, and thereby contribute to the development of related digital economic industries.</description>
+    </item>
+    <item>
+      <title>Panel Discussion: Statistics Meets AI</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/panel-discussion-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/panel-discussion-1/</guid>
+      <description>11:00 a.m. — 11:30 a.m., Friday, Aug. 23, 2024</description>
+    </item>
+    <item>
+      <title>Large Models and Graph Structures</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/large-models-and-graph-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/large-models-and-graph-structures/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 23, 2024</description>
+    </item>
+    <item>
+      <title>Panel Discussion 2: 大模型的发展历程与未来展望</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/panel-discussion-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/panel-discussion-2/</guid>
+      <description>3:00 p.m. — 3:30 p.m., Friday, Aug. 23, 2024</description>
+    </item>
+    <item>
+      <title>Causality and Reinforcement Learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/causality-and-reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/causality-and-reinforcement-learning/</guid>
+      <description>3:45 p.m. — 5:45 p.m., Friday, Aug. 23, 2024</description>
+    </item>
+    <item>
+      <title>Keynote Speech 3, 4 and 5</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/keynote-speech-3-4-and-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/keynote-speech-3-4-and-5/</guid>
+      <description>9:00 a.m. — 11:50 a.m., Saturday, Aug. 24, 2024</description>
+    </item>
+    <item>
+      <title>Big Data Statistics and Computing</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/big-data-statistics-and-computing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/big-data-statistics-and-computing/</guid>
+      <description>1:30 p.m. — 3:30 p.m., Saturday, Aug. 24, 2024</description>
+    </item>
+    <item>
+      <title>Embodied AI</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/embodied-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/schedule/sessions/embodied-ai/</guid>
+      <description>3:45 p.m. — 5:45 p.m., Saturday, Aug. 24, 2024</description>
+    </item>
+    <item>
+      <title>Machine Learning and Statistics 2024 Organizing Committee</title>
+      <link>https://ml-stat.github.io/MLSTAT2025/committee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2025/committee/</guid>
+      <description>General Chair:&#xA;Zhihua Zhang, Peking University Program Committee Program Chair:&#xA;Jianxing Yin, Renmin University of China&#xA;Zhou Yu, East China Normal University Program Members:&#xA;Jinyuan Chang, Southwest University of Finance and Economics&#xA;Yi Chang, Jilin University&#xA;Zhenguo Li, Huawei&#xA;Qian Lin, Tsinghua University&#xA;Xin Liu, Institute of Mathematics and Systems Science, Chinese Academy of Sciences&#xA;Deyu Meng, Xi&amp;rsquo;an Jiaotong University&#xA;Wenguang Sun, Zhejiang University&#xA;Xiaofei Wang, Northeast Normal University</description>
+    </item>
+  </channel>
+</rss>
