@@ -49,10 +49,6 @@ hugo server -D
 
 代码push到远程dev分支
 ```
-git add .
-git commit -m "(填写这次修改的备注)"
-git push
+bash commit.sh (本次commit message)
 ```
-
-确认代码无误且后，推送到master分支。
 
