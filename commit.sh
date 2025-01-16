@@ -9,29 +9,22 @@ if [ -z "$commit_message" ]; then
   exit 1
 fi
 
-# 切换到 dev 分支
-git checkout dev
-
-# 获取最新的 dev 分支内容
-git pull origin dev
-
 # 检查 public 文件夹是否存在
 if [ ! -d "public" ]; then
   echo "错误：public 文件夹不存在！"
   exit 1
 fi
 
-# 删除 docs 文件夹（如果存在）并重新创建
-if [ -d "docs" ]; then
-  rm -rf docs
+# 如果不存在 docs 文件夹，则创建
+if [ ! -d "docs" ]; then
+  mkdir docs
 fi
-mkdir docs
 
 # 将 public 文件夹的所有内容复制到 docs 文件夹
 cp -r public/* docs/
 
 # 添加 docs 文件夹到 Git 并提交
-git add docs
+git add .
 git commit -m "$commit_message"
 
 # 推送更改到远程 dev 分支
