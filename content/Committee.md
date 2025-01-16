@@ -1,5 +1,5 @@
 ---
-title: Machine Learning and Statistics 2025 Organizing Committee
+title: Machine Learning and Statistics 2024 Organizing Committee
 weight: 160
 ---
 

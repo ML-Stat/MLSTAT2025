@@ -16,9 +16,9 @@ unsafe = true
 	# author = "Bruce Eckel"
 	description = "A Self-Organizing Open-Spaces Unconference"
 
-	logo = "/images/hsdA.png"
-	favicon = "images/logo-color-small-2.png"
-	banner_image = "/images/hsdC.jpg"
+	logo = "/images/logo-AA.jpg"
+	favicon = "images/logo-AA.jpg"
+	banner_image = "/images/dbsdCC.png"
 
 	permalink = "#"
 
