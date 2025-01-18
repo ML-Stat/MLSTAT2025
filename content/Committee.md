@@ -8,23 +8,36 @@ weight: 160
 ________________________________________
 
 - **Program Committee** 
-    - **Program Chair**:\
-     Jianxing Yin, Renmin University of China\
-     Zhou Yu, East China Normal University
-    - **Program Members**:\
-    Jinyuan Chang, Southwest University of Finance and Economics\
-    Yi Chang, Jilin University\
-    Zhenguo Li, Huawei\
-    Qian Lin, Tsinghua University\
-    Xin Liu, Institute of Mathematics and Systems Science, Chinese Academy of Sciences\
-    Deyu Meng, Xi'an Jiaotong University\
-    Wenguang Sun, Zhejiang University\
-    Xiaofei Wang, Northeast Normal University\
-    Ke Wei, Fudan University\
-    Zhewei Wei, Renmin University of China\
-    Huazhe Xu, Tsinghua University\
-    Zhiqin Xu, Shanghai Jiao Tong University
+    - **Program Chairs**:\
+     Deyu Meng, Xi'an Jiaotong University \
+      Sai Li, Renmin University of China
+    - **Program Members(Listed alphabetically by surname)**:\
+    Cong Fang, Peking University\
+Tianfan Fu, Nanjing University\
+Bowen Gang, Fudan University\
+Tianyang Hu, National University of Singapore\
+Lican Kang, The Chinese University of Hong Kong (Shenzhen)\
+Yunwen Lei, The University of Hong Kong\
+Lei Shi, Fudan University\
+Hongxin Wei, Southern University of Science and Technology\
+Rongling Wu, Yanqihu Applied Mathematics Center, Beijing\
+Qi Xie, Xi'an Jiaotong University\
+Yunfei Yang, Sun Yat-sen University\
+Cheng Zhang, Peking University\
+Linjun Zhang, Rutgers University, New Jersey, USA\
+Shijun Zhang, The Hong Kong Polytechnic University\
+Xile Zhao, University of Electronic Science and Technology of China\
+Shuran Zheng, Tsinghua University
 ________________________________________
+
+- **Conference Organizing Committee**:
+    - **Program Chairs**:\
+    Yuling Jiao, Wuhan University\
+Xiangyu Chang, Xi'an Jiaotong University
+    - **Program Members(Listed alphabetically by surname)**:\
+XXXXX
+________________________________________
+
 - **Communication Chair**:\
 Xiangyu Chang, Xi'an Jiaotong University\
 Shurong Zheng, Northeast Normal University
