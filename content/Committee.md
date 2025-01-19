@@ -33,8 +33,8 @@ ________________________________________
     - **Program Chairs**:\
     Yuling Jiao, Wuhan University\
 Xiangyu Chang, Xi'an Jiaotong University
-    - **Program Members(Listed alphabetically by surname)**:\
-XXXXX
+    - **Program Members(Listed alphabetically by surname)**:
+
 ________________________________________
 
 
