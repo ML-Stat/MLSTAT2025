@@ -3,8 +3,6 @@ title: Machine Learning and Statistics 2025 Organizing Committee
 weight: 160
 ---
  
-- **General Chair**:\
-  Zhihua Zhang, Peking University
 ________________________________________
 
 - **Program Committee** 
@@ -39,12 +37,4 @@ Xiangyu Chang, Xi'an Jiaotong University
 XXXXX
 ________________________________________
 
-- **Communication Chair**:\
-Xiangyu Chang, Xi'an Jiaotong University\
-Shurong Zheng, Northeast Normal University
-
-- **Communication Member**:\
-Jing Chen, Northeast Normal University\
-Jingjing Jiang, Northeast Normal University\
-Xiaozhuo Zhang, Northeast Normal University
 
