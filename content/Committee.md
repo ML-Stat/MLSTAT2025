@@ -16,6 +16,7 @@ Bowen Gang, Fudan University\
 Tianyang Hu, National University of Singapore\
 Lican Kang, The Chinese University of Hong Kong (Shenzhen)\
 Yunwen Lei, The University of Hong Kong\
+Mano, one of the lead researchers of the Zero-One All-Things LLM model\
 Lei Shi, Fudan University\
 Hongxin Wei, Southern University of Science and Technology\
 Rongling Wu, Yanqihu Applied Mathematics Center, Beijing\
@@ -25,8 +26,7 @@ Cheng Zhang, Peking University\
 Linjun Zhang, Rutgers University, New Jersey, USA\
 Shijun Zhang, The Hong Kong Polytechnic University\
 Xile Zhao, University of Electronic Science and Technology of China\
-Shuran Zheng, Tsinghua University\
-mano, ~~01wanwu~~
+Shuran Zheng, Tsinghua University
 ________________________________________
 
 - **Conference Organizing Committee**:
