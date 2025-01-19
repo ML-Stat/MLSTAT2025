@@ -27,7 +27,8 @@ Cheng Zhang, Peking University\
 Linjun Zhang, Rutgers University, New Jersey, USA\
 Shijun Zhang, The Hong Kong Polytechnic University\
 Xile Zhao, University of Electronic Science and Technology of China\
-Shuran Zheng, Tsinghua University
+Shuran Zheng, Tsinghua University\
+mano, ~~01wanwu~~
 ________________________________________
 
 - **Conference Organizing Committee**:
