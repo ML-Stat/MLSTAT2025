@@ -28,7 +28,7 @@ ________________________________________
 
 Please scan the QR code below and fill in your registration information. Thanks for your cooperation!
 
-<center><img src="/images/baoming_code.jpg" alt="WenJuanXing QR code" height="200"></center>
+<center><img src="/images/wenjuan.jpg" alt="WenJuanXing QR code" height="200"></center>
 
 <!-- <style>
 

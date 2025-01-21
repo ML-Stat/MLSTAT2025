@@ -3,7 +3,7 @@ title: Machine Learning and Statistics 2025 Organizing Committee
 weight: 160
 ---
  
-________________________________________
+<!-- ________________________________________ -->
 
 - **Program Committee** 
     - **Program Chairs**:\
@@ -33,8 +33,11 @@ ________________________________________
     - **Program Chairs**:\
     Yuling Jiao, Wuhan University\
 Xiangyu Chang, Xi'an Jiaotong University
-    - **Program Members(Listed alphabetically by surname)**:
-
-________________________________________
+    - **Program Members(Listed alphabetically by surname)**:\
+Xueqing Gao,Wuhan University \
+Qingquan Lin,Wuhan University \
+Xuebing Qin,Wuhan University \
+Zhujun Wei,Wuhan University 
+<!-- ________________________________________ -->
 
 
