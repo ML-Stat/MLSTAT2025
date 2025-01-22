@@ -31,7 +31,7 @@ ________________________________________
 
 - **Conference Organizing Committee (Listed alphabetically by surname)**:
     - **Program Chairs**:\
-  Xiangyu Chang, Wuhan University\
+  Xiangyu Chang, Xi'an Jiaotong University\
     Zhijian Yang, Wuhan University
     - **Program Members**:\
   Jinluan Bian, Wuhan University\
