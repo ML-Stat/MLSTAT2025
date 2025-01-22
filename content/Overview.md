@@ -13,7 +13,7 @@ The 3nd International Conference on Machine Learning and Statistics (**MLSTAT**)
   Machine Learning Branch of the Chinese Association for Applied Statistics\
   National Center for Applied Mathematics in Hubei\
   School of Mathematics and Statistics, Whuhan University\
-   School of AI 
+   School of AI, Whuhan University
 ________________________________________
 
 <!--
