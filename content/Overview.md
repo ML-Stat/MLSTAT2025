@@ -7,7 +7,7 @@ weight: 10
 
 The 3nd International Conference on Machine Learning and Statistics (**MLSTAT**) will be held
 - **Date**: <span style="font-size:150%">June 20-22, 2025</span>. 
-- **Localtion**: <span style="font-size:150%">299, Bayi Road, Wuchang District, Wuhan City, Hubei Province, China</span>.
+- **Localtion**: <span style="font-size:150%">Whuhan university, 299, Bayi Road, Wuchang District, Wuhan City, Hubei Province, China</span>.
 - **Aim**: The Machine Learning and Statistics Conference (MLSTAT) is an academic conference that serves to facilitate scholarly exchange among domestic and international scholars in the fields of machine learning and statistics. Through fostering an academic culture that promotes the mutual development of machine learning and statistics, the conference aims to advance foundational disciplines such as data science and artificial intelligence, and thereby contribute to the development of related digital economic industries.
 - **Conference Orgnizer**:\
   Machine Learning Branch of the Chinese Association for Applied Statistics\
@@ -21,7 +21,8 @@ ________________________________________
 -->
 <br/>
 <div style="text-align:center;font-size:175%;font-weight:bold">
-<a href = "/registration">Registration</a>
+<a>Registration</a>
+<!-- href = "/registration" -->
 </div>
 
 <hr style="border: 0; border-top: 5px solid;">

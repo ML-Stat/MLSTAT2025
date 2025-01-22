@@ -5,18 +5,18 @@ weight: 160
  
 <!-- ________________________________________ -->
 
-- **Program Committee** 
+- **Program Committee (Listed alphabetically by surname)** 
     - **Program Chairs**:\
      Deyu Meng, Xi'an Jiaotong University \
       Sai Li, Renmin University of China
-    - **Program Members(Listed alphabetically by surname)**:\
+    - **Program Members**:\
     Cong Fang, Peking University\
 Tianfan Fu, Nanjing University\
 Bowen Gang, Fudan University\
 Tianyang Hu, National University of Singapore\
 Lican Kang, The Chinese University of Hong Kong (Shenzhen)\
 Yunwen Lei, The University of Hong Kong\
-Mano, one of the lead researchers of the Zero-One All-Things LLM model\
+Nuo Ma, Zero One All Things\
 Lei Shi, Fudan University\
 Hongxin Wei, Southern University of Science and Technology\
 Rongling Wu, Yanqihu Applied Mathematics Center, Beijing\
@@ -29,15 +29,18 @@ Xile Zhao, University of Electronic Science and Technology of China\
 Shuran Zheng, Tsinghua University
 ________________________________________
 
-- **Conference Organizing Committee**:
+- **Conference Organizing Committee (Listed alphabetically by surname)**:
     - **Program Chairs**:\
-    Yuling Jiao, Wuhan University\
-Xiangyu Chang, Xi'an Jiaotong University
-    - **Program Members(Listed alphabetically by surname)**:\
-Xueqing Gao,Wuhan University \
-Qingquan Lin,Wuhan University \
-Xuebing Qin,Wuhan University \
-Zhujun Wei,Wuhan University 
+  Xiangyu Chang, Wuhan University\
+    Zhijian Yang, Wuhan University
+    - **Program Members**:\
+  Jinluan Bian, Wuhan University\
+Xueqing Gao, Wuhan University \
+Yuling Jiao, Wuhan University\
+Qingquan Lin, Wuhan University \
+Xuebing Qin, Wuhan University \
+Zhujun Wei, Wuhan University \
+ Guixiong Xia, Wuhan University
 <!-- ________________________________________ -->
 
 
