@@ -23,10 +23,11 @@ Rongling Wu, Yanqihu Applied Mathematics Center, Beijing\
 Qi Xie, Xi'an Jiaotong University\
 Yunfei Yang, Sun Yat-sen University\
 Cheng Zhang, Peking University\
-Linjun Zhang, Rutgers University, New Jersey, USA\
+Linjun Zhang, Rutgers, The State University of New Jersey\
 Shijun Zhang, The Hong Kong Polytechnic University\
-Xile Zhao, University of Electronic Science and Technology of China\
-Shuran Zheng, Tsinghua University
+Shuran Zheng, Tsinghua University\
+Xile Zhao, University of Electronic Science and Technology of China
+
 ________________________________________
 
 - **Conference Organizing Committee (Listed alphabetically by surname)**:
