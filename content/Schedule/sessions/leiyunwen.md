@@ -71,6 +71,7 @@ ________________________________________
 <body>
     <div class="row">
     <div class="left">
+    <img src="/images/leiyunwen.png" class="avatar" />
         <div class="font-small font-bold">
             Yunwen Lei
         </div>

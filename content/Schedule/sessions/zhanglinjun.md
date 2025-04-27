@@ -28,6 +28,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
+    <img src="/images/zhanglinjun.png" class="avatar" />
         <div class="font-small font-bold">
             Linjun Zhang
         </div>

@@ -29,6 +29,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
+    <img src="/images/zhangcheng.png" class="avatar" />
         <div class="font-small font-bold">
             Cheng Zhang
         </div>

@@ -28,6 +28,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
+    <img src="/images/zhangshijun.png" class="avatar" />
         <div class="font-small font-bold">
             Shijun Zhang
         </div>

@@ -29,7 +29,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/xile.png" class="avatar" />
+        <img src="/images/zhaoxile.png" class="avatar" />
         <div class="font-small font-bold">
             Xile Zhao
         </div>

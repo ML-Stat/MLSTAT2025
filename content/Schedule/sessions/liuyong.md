@@ -71,7 +71,7 @@ ________________________________________
 <body>
     <div class="row">
     <div class="left">
-        <img src="/images/hongxin.png" class="avatar" />
+        <img src="/images/liuyong.png" class="avatar" />
         <div class="font-small font-bold">
             Yong Liu
         </div>

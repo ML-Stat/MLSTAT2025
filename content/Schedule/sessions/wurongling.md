@@ -30,7 +30,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/hongxin.png" class="avatar" />
+        <img src="/images/wurongling.png" class="avatar" />
         <div class="font-small font-bold">
             Rongling Wu
         </div>

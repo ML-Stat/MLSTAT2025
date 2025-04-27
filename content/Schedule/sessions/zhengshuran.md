@@ -27,7 +27,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/shuran.png" class="avatar" />
+        <img src="/images/zhengshuran.png" class="avatar" />
         <div class="font-small font-bold">
             Shuran Zheng
         </div>

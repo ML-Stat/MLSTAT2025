@@ -72,6 +72,7 @@ ________________________________________
 <body>
     <div class="row">
     <div class="left">
+    <img src="/images/fangcong.png" class="avatar" />
         <div class="font-small font-bold">
             Cong Fang
         </div>

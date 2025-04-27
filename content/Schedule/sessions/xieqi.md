@@ -29,6 +29,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
+    <img src="/images/xieqi.png" class="avatar" />
         <div class="font-small font-bold">
             Qi Xie
         </div>
