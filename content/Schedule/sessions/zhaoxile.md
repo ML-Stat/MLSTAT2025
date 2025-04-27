@@ -1,11 +1,11 @@
 ---
 title: "Continuous Modeling Perspective for Imaging Science"
-summary: "2:45 p.m. — 3:25 p.m., Saturday, Jun.21, 2025"
+summary: "2:45 p.m. — 3:25 p.m., Saturday, Jun.22, 2025"
 tags: "k1"
 weight: 15
 ---
 
-Saturday, Jun.21, 2025
+Saturday, Jun.22, 2025
 ------
 
 <hr style="border: 0; border-top: 5px solid;">

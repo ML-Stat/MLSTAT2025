@@ -1,11 +1,11 @@
 ---
 title: "Proper Dataset Valuation by Pointwise Mutual Information"
-summary: "3:30 p.m. — 4:10 p.m., Saturday, Jun.21, 2025"
+summary: "3:30 p.m. — 4:10 p.m., Saturday, Jun.22, 2025"
 tags: "k1"
 weight: 16
 ---
 
-Saturday, Jun.21, 2025
+Saturday, Jun.22, 2025
 ------
 
 <hr style="border: 0; border-top: 5px solid;">

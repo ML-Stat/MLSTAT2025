@@ -1,11 +1,11 @@
 ---
 title: "应对高频挑战：从浅层到多层神经网络"
-summary: "2:00 p.m. — 2:40 p.m., Saturday, Jun.21, 2025"
+summary: "2:00 p.m. — 2:40 p.m., Saturday, Jun.22, 2025"
 tags: "k1"
 weight: 14
 ---
 
-Saturday, Jun.21, 2025
+Saturday, Jun.22, 2025
 ------
 
 <hr style="border: 0; border-top: 5px solid;">

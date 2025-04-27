@@ -1,11 +1,11 @@
 ---
 title: "生成还是判别：探索复杂条件下的图像生成新范式"
-summary: "11:25 a.m. — 12:05 a.m., Friday, Jun.20, 2025"
+summary: "11:25 a.m. — 12:05 a.m., Friday, Jun.21, 2025"
 tags: "k1"
 weight: 4
 ---
 
-Friday, June 20th, 2025
+Friday, June 21th, 2025
 ------
 
 

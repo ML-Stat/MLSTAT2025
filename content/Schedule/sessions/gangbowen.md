@@ -1,11 +1,11 @@
 ---
 title: "用合成统计量来整合推断结果"
-summary: "10:40 a.m. — 11:20 a.m., Friday, Jun.20, 2025"
+summary: "10:40 a.m. — 11:20 a.m., Friday, Jun.21, 2025"
 tags: "k1"
 weight: 3
 ---
 
-Friday, June 20th, 2025
+Friday, June 21th, 2025
 ------
 
 

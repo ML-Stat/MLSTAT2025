@@ -1,11 +1,11 @@
 ---
 title: "A Statistical Hypothesis Testing Framework for Data Misappropriation Detection in Large Language Models"
-summary: "10:55 a.m. — 11:35 a.m., Saturday, Jun.21, 2025"
+summary: "10:55 a.m. — 11:35 a.m., Saturday, Jun.22, 2025"
 tags: "k1"
 weight: 13
 ---
 
-Saturday, Jun.21, 2025
+Saturday, Jun.22, 2025
 ------
 
 <hr style="border: 0; border-top: 5px solid;">

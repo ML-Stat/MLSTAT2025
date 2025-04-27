@@ -1,11 +1,11 @@
 ---
 title: "Is External Information Useful for Data Fusion? An Evaluation before Acquisition"
-summary: "9:00 a.m. — 9:40 a.m., Friday, Jun.20, 2025"
+summary: "9:00 a.m. — 9:40 a.m., Friday, Jun.21, 2025"
 tags: "k1"
 weight: 1
 ---
 
-Friday, Jun.20, 2025
+Friday, Jun.21, 2025
 ------
 
 

@@ -1,11 +1,11 @@
 ---
 title: "复杂场景下的共型预测理论及方法"
-summary: "5:10 p.m. — 5:50 p.m., Friday, Jun.20, 2025"
+summary: "5:10 p.m. — 5:50 p.m., Friday, Jun.21, 2025"
 tags: "k1"
 weight: 9
 ---
 
-Friday, Jun.20, 2025
+Friday, Jun.21, 2025
 ------
 
 
