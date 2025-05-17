@@ -20,7 +20,7 @@ Saturday, Jun.22, 2025
 </div>
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
-    <b>Location: 武汉大学</b>&nbsp;
+    <b>Location: 武汉大学-雷军楼一楼报告厅</b>&nbsp;
 </div>
 
 

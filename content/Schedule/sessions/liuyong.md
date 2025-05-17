@@ -18,7 +18,7 @@ Friday, June 21th, 2025
 </div>
 <div class="tip">
     <img class="icon" src="/images/didian.png" />
-    <b>Location: 武汉大学</b>&nbsp;
+    <b>Location: 武汉大学-雷军楼一楼报告厅</b>&nbsp;
 </div>
 
 ________________________________________
