@@ -1,11 +1,11 @@
 ---
 title: "带偏差随机优化算法的稳定与泛化性能"
-summary: "14:45 a.m. — 15:25 a.m., Friday, Jun.21, 2025"
+summary: "14:45 a.m. — 15:25 a.m., Saturday, Jun.21, 2025"
 tags: "k1"
 weight: 6
 ---
 
-Friday, June 21th, 2025
+Saturday, June 21th, 2025
 ------
 
 

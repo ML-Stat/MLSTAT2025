@@ -1,11 +1,11 @@
 ---
 title: "随机梯度下降算法在高维回归问题中正则效应与泛化性能研究"
-summary: "9:55 a.m. — 10:35 a.m., Friday, Jun.21, 2025"
+summary: "9:55 a.m. — 10:35 a.m., Saturday, Jun.21, 2025"
 tags: "k1"
 weight: 2
 ---
 
-Friday, June 21th, 2025
+Saturday, June 21th, 2025
 ------
 
 

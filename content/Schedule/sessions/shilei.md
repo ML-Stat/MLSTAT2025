@@ -1,11 +1,11 @@
 ---
 title: "Learning Theory of Classification with Deep Neural Networks"
-summary: "16:25 a.m. — 17:05 a.m., Friday, Jun.21, 2025"
+summary: "16:25 a.m. — 17:05 a.m., Saturday, Jun.21, 2025"
 tags: "k1"
 weight: 8
 ---
 
-Friday, June 21th, 2025
+Saturday, June 21th, 2025
 ------
 
 

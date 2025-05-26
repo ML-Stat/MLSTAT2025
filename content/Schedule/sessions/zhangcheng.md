@@ -1,11 +1,11 @@
 ---
 title: "Semi-implicit Functional Gradient Flow (半隐式函数型梯度流)"
-summary: "10:10 a.m. — 10:50 a.m., Saturday, Jun.22, 2025"
+summary: "10:10 a.m. — 10:50 a.m., Sunday, Jun.22, 2025"
 tags: "k1"
 weight: 12
 ---
 
-Saturday, Jun.22, 2025
+Sunday, Jun.22, 2025
 ------
 
 <hr style="border: 0; border-top: 5px solid;">

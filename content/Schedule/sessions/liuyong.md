@@ -1,11 +1,11 @@
 ---
 title: "大模型机理分析初探-- In-context learning和数据合成机理分析"
-summary: "15:30 a.m. — 16:10 a.m., Friday, Jun.21, 2025"
+summary: "15:30 a.m. — 16:10 a.m., Saturday, Jun.21, 2025"
 tags: "k1"
 weight: 7
 ---
 
-Friday, June 21th, 2025
+Saturday, June 21th, 2025
 ------
 
 

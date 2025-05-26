@@ -1,11 +1,11 @@
 ---
 title: "Statistics at a crossroads: How it can revolutionize artificial intelligence"
-summary: "8:30 a.m. — 9:10 a.m., Saturday, Jun.22, 2025"
+summary: "8:30 a.m. — 9:10 a.m., Sunday, Jun.22, 2025"
 tags: "k1"
 weight: 10
 ---
 
-Saturday, Jun.22, 2025
+Sunday, Jun.22, 2025
 ------
 
 

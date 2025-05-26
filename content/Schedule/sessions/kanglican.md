@@ -1,11 +1,11 @@
 ---
 title: "Model Free Prediction with Uncertainty Assessment"
-summary: "14:00 a.m. — 14:40 a.m., Friday, Jun.21, 2025"
+summary: "14:00 a.m. — 14:40 a.m., Saturday, Jun.21, 2025"
 tags: "k1"
 weight: 5
 ---
 
-Friday, June 21th, 2025
+Saturday, June 21th, 2025
 ------
 
 

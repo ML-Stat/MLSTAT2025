@@ -1,11 +1,11 @@
 ---
 title: "几何等变先验嵌入的深度学习"
-summary: "9:15 a.m. — 9:55 a.m., Saturday, Jun.22, 2025"
+summary: "9:15 a.m. — 9:55 a.m., Sunday, Jun.22, 2025"
 tags: "k1"
 weight: 11
 ---
 
-Saturday, Jun.22, 2025
+Sunday, Jun.22, 2025
 ------
 
 <hr style="border: 0; border-top: 5px solid;">
