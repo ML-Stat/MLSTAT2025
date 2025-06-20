@@ -13,6 +13,13 @@ weight: 10
   湖北国家应用数学中心 (National Center for Applied Mathematics in Hubei)\
   武汉大学数学与统计学院 (School of Mathematics and Statistics, Whuhan University)\
   武汉大学人工智能学院 (School of AI, Whuhan University)
+
+- **会议主持人 (Conference Chair)**:\
+主持安排如下：\
+21日上午，两位主持：焦雨领，常象宇\
+21日下午，两位主持：魏鸿鑫，刘勇\
+22日上午，两位主持：任传贤，谢琦\
+22日下午，一位主持：李赛\
 ________________________________________
 
 <!--
@@ -20,17 +27,17 @@ ________________________________________
   fee, <a href="/contact">make a request</a>. Don't let the fee be the reason
   you can't attend.
 -->
-<br/>
+<!-- <br/>
 <div style="text-align:center;font-size:175%;font-weight:bold">
-<a>报名 (Registration)</a>
+<a>报名 (Registration)</a> -->
 <!-- href = "/registration" -->
-</div>
+<!-- </div>
 
 <hr style="border: 0; border-top: 5px solid;">
 
 请扫描下方二维码填写注册信息，感谢您的配合！ (Please scan the QR code below and fill in your registration information. Thanks for your cooperation!)
 
-<center><img src="/images/wenjuan.jpg" alt="WenJuanXing QR code" height="200"></center>
+<center><img src="/images/wenjuan.jpg" alt="WenJuanXing QR code" height="200"></center> -->
 
 <!-- <style>
 
